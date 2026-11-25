@@ -1,3 +1,13 @@
+<div align="center">
+<img src="assets/logo.png?v=1" width="280" alt="laugh-off-01 logo">
+
+<p><em>One-line office joke laugh-off.</em></p>
+
+<img src="https://img.shields.io/badge/Language-Python-0A1931?style=for-the-badge&labelColor=FF7A00" alt="Language: Python">
+<img src="https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00" alt="License: MIT">
+<img src="https://img.shields.io/badge/By-Kontenlaris_Studio-0A1931?style=for-the-badge&labelColor=FF7A00" alt="By Kontenlaris Studio">
+</div>
+
 # laugh-off-01
 
 [![make.fun · u-suzy-one-line-office-joke-laugh-off-f574ac73](https://make.fun/badge/u-suzy-one-line-office-joke-laugh-off-f574ac73.svg)](https://make.fun/bounty/u-suzy-one-line-office-joke-laugh-off-f574ac73?utm_source=github&utm_medium=readme&utm_campaign=u-suzy-one-line-office-joke-laugh-off-f574ac73)
